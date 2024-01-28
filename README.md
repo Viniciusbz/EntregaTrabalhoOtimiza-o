@@ -1,7 +1,8 @@
 # Entrega de trabalho de Otimização e Computação Evolucionária
 
 Prof: Adiel 
-Alunos: Fábio Rodrigo, Manuela Diniz, Vinícius Coelho
+
+**Alunos: Fábio Rodrigo, Manuela Diniz, Vinícius Coelho**
 
 ---
 
